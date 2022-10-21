@@ -25,3 +25,12 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 Separar as funções existentes de saque, depósito e extrato em funções e criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
 
 Deixar o código mais modularizado com funções para os operações existentes.
+
+#
+## Desafio v3:
+
+Reprodução das novas implementações no código propostas no desafio.  
+
+Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML anexado na imagem no repositório -> [Imagem](https://github.com/GeffyB/formacaopythondev-desafiosdecodigoeprojetos/blob/master/DesafiosDeProjeto/ProjetoSistemaBancario/UML_sistema_bancario.png)
+
+
